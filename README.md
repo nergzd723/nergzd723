@@ -1,9 +1,9 @@
-### Hey all! 👋
-My name is nergzd723!
+### the factsheet 👋
+nergzd723:
 
-- 🐧 I'm currently working on mainline Linux for old phones
-- I'm currently learning Linux architecture
-- I'm looking to collaborate on making Halium work on postmarketOS
-- Ask me about x86_64 architecture, Halium, postmarketOS
-
-- * fun fact: I love Earthbound, Ace Attorney, Pokemon and other Nintendo games :D
+- 17, M
+- working on mainline Linux for old phones 🐧 
+- trying to make Linux better
+- ask about x86, ARM64 embedded development, Linux, C
+- studying Avionics
+- made Linux run on: Galaxy S9 (Exynos9810), iPad Air 2 (Apple A8X), Samsung Galaxy J5 (extensive support, msm8916), iPad (7th generation, Apple A10) and many more
